@@ -1,7 +1,5 @@
 ```markdown
 # FeelingDetection   
-**بهترین تشخیص‌دهنده احساسات چهره ایرانی — ساخته‌شده برای مردم ایران**
-
 ![GitHub stars](https://img.shields.io/github/stars/USERNAME/FeelingDetection?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/USERNAME/FeelingDetection?style=social)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
